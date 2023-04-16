@@ -31,8 +31,6 @@ namespace Infrastructure.Data.Connections
 
             return root.ConnectionStrings?.MyConnection;
 
-            
-           
         }
 
 
