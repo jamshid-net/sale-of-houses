@@ -1,0 +1,12 @@
+D:\ForGitHub\House_sale\Domain.Core\bin\Debug\net7.0\Domain.Core.deps.json
+D:\ForGitHub\House_sale\Domain.Core\bin\Debug\net7.0\Domain.Core.dll
+D:\ForGitHub\House_sale\Domain.Core\bin\Debug\net7.0\Domain.Core.pdb
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.csproj.AssemblyReference.cache
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.AssemblyInfoInputs.cache
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.AssemblyInfo.cs
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.csproj.CoreCompileInputs.cache
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.dll
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\refint\Domain.Core.dll
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\Domain.Core.pdb
+D:\ForGitHub\House_sale\Domain.Core\obj\Debug\net7.0\ref\Domain.Core.dll

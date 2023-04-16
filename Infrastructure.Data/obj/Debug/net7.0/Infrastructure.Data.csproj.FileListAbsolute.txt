@@ -1,0 +1,17 @@
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.deps.json
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.dll
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.pdb
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Domain.Core.dll
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Domain.Interfaces.dll
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Domain.Interfaces.pdb
+D:\ForGitHub\House_sale\Infrastructure.Data\bin\Debug\net7.0\Domain.Core.pdb
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.AssemblyReference.cache
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.AssemblyInfo.cs
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.CopyComplete
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.dll
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\refint\Infrastructure.Data.dll
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.pdb
+D:\ForGitHub\House_sale\Infrastructure.Data\obj\Debug\net7.0\ref\Infrastructure.Data.dll

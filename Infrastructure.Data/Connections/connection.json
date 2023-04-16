@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "MyConnection": "Server=localhost;Port=5432;Database=House_Sale;User Id=postgres;Password=postgres;"
+  }
+}
+

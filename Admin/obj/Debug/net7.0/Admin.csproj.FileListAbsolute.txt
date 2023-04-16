@@ -1,0 +1,12 @@
+D:\ForGitHub\House_sale\Admin\bin\Debug\net7.0\Admin.deps.json
+D:\ForGitHub\House_sale\Admin\bin\Debug\net7.0\Admin.dll
+D:\ForGitHub\House_sale\Admin\bin\Debug\net7.0\Admin.pdb
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.csproj.AssemblyReference.cache
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.AssemblyInfoInputs.cache
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.AssemblyInfo.cs
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.csproj.CoreCompileInputs.cache
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.dll
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\refint\Admin.dll
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\Admin.pdb
+D:\ForGitHub\House_sale\Admin\obj\Debug\net7.0\ref\Admin.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gdTQUW7En/grmr6Ejh7PZXKMpgFAoSs3h8oZgJ5VJIx4ktsWPcC6DCnaLy0v7Mv2DcBSYMhldBoRdXxZ89OOw==",
+  "success": true,
+  "projectFilePath": "D:\\ForGitHub\\House_sale\\UserInterface\\UserInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\npgsql\\8.0.0-preview.1\\npgsql.8.0.0-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

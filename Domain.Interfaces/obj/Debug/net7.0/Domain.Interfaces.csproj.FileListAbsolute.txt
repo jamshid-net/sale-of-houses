@@ -1,0 +1,15 @@
+D:\ForGitHub\House_sale\Domain.Interfaces\bin\Debug\net7.0\Domain.Interfaces.deps.json
+D:\ForGitHub\House_sale\Domain.Interfaces\bin\Debug\net7.0\Domain.Interfaces.dll
+D:\ForGitHub\House_sale\Domain.Interfaces\bin\Debug\net7.0\Domain.Interfaces.pdb
+D:\ForGitHub\House_sale\Domain.Interfaces\bin\Debug\net7.0\Domain.Core.dll
+D:\ForGitHub\House_sale\Domain.Interfaces\bin\Debug\net7.0\Domain.Core.pdb
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.csproj.AssemblyReference.cache
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.AssemblyInfoInputs.cache
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.AssemblyInfo.cs
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.csproj.CopyComplete
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.dll
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\refint\Domain.Interfaces.dll
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\Domain.Interfaces.pdb
+D:\ForGitHub\House_sale\Domain.Interfaces\obj\Debug\net7.0\ref\Domain.Interfaces.dll
