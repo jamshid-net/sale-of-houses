@@ -101,12 +101,12 @@ namespace Infrastructure.Data.Commands
 
 
 
-        public House GetHouseById(int id)
+        public async House GetHouseById(int id)
         {
             House house;
             using (NpgsqlConnection conn = new NpgsqlConnection(Connection.GetString()))
             {
-                conn.Open();
+                await conn.OpenAsync();
                 var h = conn.Query<House>
                        ($"select * from get_full_info_house where house_id = @id", new {id});
 
@@ -148,7 +148,7 @@ namespace Infrastructure.Data.Commands
             using (NpgsqlConnection conn = new NpgsqlConnection(Connection.GetString()))
             {
 
-                conn.Open();
+                await conn.OpenAsync();
                 conn.QueryFirstOrDefault(@$"update house set 
                                         area = @area, 
                                         count_room = @count_room,
