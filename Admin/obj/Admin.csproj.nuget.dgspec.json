@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\Admin.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Admin\\Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\Admin.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Admin\\Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\Admin.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Admin\\Admin.csproj",
         "projectName": "Admin",
-        "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\Admin.csproj",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Admin\\Admin.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\obj\\",
         "projectStyle": "PackageReference",

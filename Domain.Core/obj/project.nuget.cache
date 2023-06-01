@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3B4tAjM0ODTL50p8uqxXkZooR6Lo22NqIvhSFwMVkHb6+TAKlcI2PefDk+rtg1eliicyFQ/A7fxrqtJYvgKwSA==",
+  "dgSpecHash": "qYFTifGfEie/x5VmOyBlJa9cPslWrOpjVtIx128uMu5YLASIKCFvhvwOgu/fhXEn82h1Ilp5Pcw6qrfA/hT1Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

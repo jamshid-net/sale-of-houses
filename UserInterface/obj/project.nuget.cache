@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "14r0DOfdfSVdqSAwEcJ0OLkDpXiM+GLyBPp9aYNz7DGnETrkza2OyxyoHkooDDeiuAUjO47IdeFnguacIKa0Mg==",
+  "dgSpecHash": "zcMTZE0AJve5zyGGFCRLtwkDjL2wSCZu+r1EC23uASXwCrSgpeBii8mWegx1ws2yYQyo0EDQZNejGnnbSl+G/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\UserInterface\\UserInterface.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\UserInterface\\UserInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

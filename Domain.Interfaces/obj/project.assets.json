@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
       "projectName": "Domain.Interfaces",
-      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
@@ -60,8 +60,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj"
+            "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj"
             }
           }
         }

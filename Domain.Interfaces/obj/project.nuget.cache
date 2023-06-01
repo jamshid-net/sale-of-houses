@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VcJYXOQnQflIK4PtZ95oR4ctYVq3Caue0zjLnBO9oMztIloY5krG8sur4mpCX82QPcPvr4KzwVUWN7iBcyA9g==",
+  "dgSpecHash": "bl99OXTctgOn1tQvAfvNoVhm8TrDr7qWOTdhbk6A0YRCi8/FBwVAaNTUdkTs0rFZvJKHlrjdl5me60/TJ+jQjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
