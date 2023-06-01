@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForGitHub\\House_sale\\BuisnessLogic\\BuisnessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\BuisnessLogic\\BuisnessLogic.csproj",
       "projectName": "BuisnessLogic",
-      "projectPath": "D:\\ForGitHub\\House_sale\\BuisnessLogic\\BuisnessLogic.csproj",
+      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\BuisnessLogic\\BuisnessLogic.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ForGitHub\\House_sale\\BuisnessLogic\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\BuisnessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -271,11 +271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForGitHub\\House_sale\\UserInterface\\UserInterface.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\UserInterface\\UserInterface.csproj",
       "projectName": "UserInterface",
-      "projectPath": "D:\\ForGitHub\\House_sale\\UserInterface\\UserInterface.csproj",
+      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\UserInterface\\UserInterface.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ForGitHub\\House_sale\\UserInterface\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\UserInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,17 +298,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ForGitHub\\House_sale\\Admin\\Admin.csproj": {
-              "projectPath": "D:\\ForGitHub\\House_sale\\Admin\\Admin.csproj"
+            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\Admin.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Admin\\Admin.csproj"
             },
-            "D:\\ForGitHub\\House_sale\\Domain.Core\\Domain.Core.csproj": {
-              "projectPath": "D:\\ForGitHub\\House_sale\\Domain.Core\\Domain.Core.csproj"
+            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj"
             },
-            "D:\\ForGitHub\\House_sale\\Domain.Interfaces\\Domain.Interfaces.csproj": {
-              "projectPath": "D:\\ForGitHub\\House_sale\\Domain.Interfaces\\Domain.Interfaces.csproj"
+            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj"
             },
-            "D:\\ForGitHub\\House_sale\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-              "projectPath": "D:\\ForGitHub\\House_sale\\Infrastructure.Data\\Infrastructure.Data.csproj"
+            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Infrastructure.Data\\Infrastructure.Data.csproj"
             }
           }
         }

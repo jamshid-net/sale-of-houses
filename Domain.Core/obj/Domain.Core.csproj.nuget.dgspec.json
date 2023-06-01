@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ForGitHub\\House_sale\\Domain.Core\\Domain.Core.csproj": {}
+    "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj": {}
   },
   "projects": {
-    "D:\\ForGitHub\\House_sale\\Domain.Core\\Domain.Core.csproj": {
+    "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ForGitHub\\House_sale\\Domain.Core\\Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj",
         "projectName": "Domain.Core",
-        "projectPath": "D:\\ForGitHub\\House_sale\\Domain.Core\\Domain.Core.csproj",
+        "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\Domain.Core.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\ForGitHub\\House_sale\\Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
