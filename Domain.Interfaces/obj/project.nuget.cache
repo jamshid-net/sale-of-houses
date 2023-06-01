@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3QBko1GX+y/7zDVEI7xVu4HzwmYDghoDExrD9DB10YLvgBUiJ1TnmI1t6SYe1+MaPjSxK50XXISYhJZFuYOA8w==",
+  "dgSpecHash": "/VcJYXOQnQflIK4PtZ95oR4ctYVq3Caue0zjLnBO9oMztIloY5krG8sur4mpCX82QPcPvr4KzwVUWN7iBcyA9g==",
   "success": true,
-  "projectFilePath": "D:\\ForGitHub\\House_sale\\Domain.Interfaces\\Domain.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Domain.Interfaces\\Domain.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

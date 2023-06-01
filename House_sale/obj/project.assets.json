@@ -290,11 +290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForGitHub\\House_sale\\House_sale\\House_sale.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\House_sale\\House_sale.csproj",
       "projectName": "House_sale",
-      "projectPath": "D:\\ForGitHub\\House_sale\\House_sale\\House_sale.csproj",
+      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\House_sale\\House_sale.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ForGitHub\\House_sale\\House_sale\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\House_sale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -317,11 +317,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ForGitHub\\House_sale\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-              "projectPath": "D:\\ForGitHub\\House_sale\\Infrastructure.Data\\Infrastructure.Data.csproj"
+            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\Infrastructure.Data\\Infrastructure.Data.csproj"
             },
-            "D:\\ForGitHub\\House_sale\\UserInterface\\UserInterface.csproj": {
-              "projectPath": "D:\\ForGitHub\\House_sale\\UserInterface\\UserInterface.csproj"
+            "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\UserInterface\\UserInterface.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Source\\Repos\\sale-of-houses\\UserInterface\\UserInterface.csproj"
             }
           }
         }

@@ -35,7 +35,7 @@ namespace Infrastructure.Data.Logins
             catch (Exception e)
             {
 
-                throw new Exception("Password or Username incorrect");
+                throw new Exception("Password or Username incorrect  ");
             }
 
 
